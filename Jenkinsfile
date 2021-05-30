@@ -1,6 +1,6 @@
-pipleline{
+pipleline {
 
-  agent  any
+  agent any
   
   stages {
   
